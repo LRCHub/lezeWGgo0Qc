@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Love is MY RAIL",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2026-01-12T13:39:48.829064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/01_Love_is_MY_RAIL_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/02_Love_is_MY_RAIL_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "Suzuki Konomi",
+      "has_synced": true,
+      "path": "select/03_Love_is_MY_RAIL_Suzuki_Konomi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "Konomi Suzuki (鈴木このみ)",
+      "has_synced": true,
+      "path": "select/04_Love_is_MY_RAIL_Konomi_Suzuki_(鈴木このみ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/05_Love_is_MY_RAIL_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love is MY RAIL -running start-",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/06_Love_is_MY_RAIL_-running_start-_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love is MY RAIL",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/07_Love_is_MY_RAIL_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love is MY RAIL (instrumental)",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/08_Love_is_MY_RAIL_(instrumental)_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love is MY RAIL -running start-",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/09_Love_is_MY_RAIL_-running_start-_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love is MY RAIL (instrumental)",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/10_Love_is_MY_RAIL_(instrumental)_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love is MY RAIL",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_Love_is_MY_RAIL_鈴木このみ.txt"
+    }
+  ]
+}
